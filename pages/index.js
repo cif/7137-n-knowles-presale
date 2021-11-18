@@ -204,7 +204,7 @@ export default function Home() {
           width="100%"
           height="420" 
           style={{ border:0 }} 
-          allowfullscreen="" 
+          allowFullScreen="" 
           loading="lazy"
           ></iframe>
       </main>
