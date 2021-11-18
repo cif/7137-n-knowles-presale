@@ -199,6 +199,14 @@ export default function Home() {
             />
           </div>
         </div>
+        <iframe 
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2792.7621994890546!2d-122.70187914812651!3d45.57522047899985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5495a7bd7bc1f033%3A0x32dd6a6f99adb851!2s7137%20N%20Knowles%20Ave%2C%20Portland%2C%20OR%2097217!5e0!3m2!1sen!2sus!4v1637274807396!5m2!1sen!2sus" 
+          width="100%"
+          height="420" 
+          style={{ border:0 }} 
+          allowfullscreen="" 
+          loading="lazy"
+          ></iframe>
       </main>
 
       <footer className={styles.footer}>
