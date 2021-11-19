@@ -21,10 +21,10 @@ export default function Home() {
           <p className={styles.lh}>Features & Highlights:</p>
           <ul className={styles.list}>
             <li>Built Originally in 1969</li>
-            <li>Rennovated to Open Floor Plan in 2018</li>
+            <li>Renovated to Open Floor Plan in 2018</li>
             <li>All New Appliances, Duel Fuel Oven/Range</li>
             <li>Gas Heat & Central Air Conditioning</li>
-            <li>Large Yard Back Yard with ADU Potential</li>
+            <li>Large Back Yard with ADU Potential</li>
           </ul>
         </div>
         <div className={styles.photos}>
