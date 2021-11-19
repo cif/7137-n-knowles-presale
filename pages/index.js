@@ -22,6 +22,7 @@ export default function Home() {
           <ul className={styles.list}>
             <li>Built Originally in 1969</li>
             <li>Rennovated to Open Floor Plan in 2018</li>
+            <li>All New Appliances, Duel Fuel Oven/Range</li>
             <li>Gas Heat & Central Air Conditioning</li>
             <li>Large Yard Back Yard with ADU Potential</li>
           </ul>
